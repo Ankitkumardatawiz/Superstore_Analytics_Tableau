@@ -1,5 +1,6 @@
 # Superstore_Analytics_Tableau
 Superstore Analytics project using Tableau! In this project, we explore and analyze the Superstore dataset to derive valuable insights and create informative visualizations.
+
 **Project Highlights:**
 
 1. **Identify Least Profitable Sub-Category in 2022:** Discover the sub-category with the lowest profit value in the year 2022.
